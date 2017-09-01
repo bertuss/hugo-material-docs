@@ -1,0 +1,14 @@
+author:
+  homepage: https://github.com/superbalist
+  name: Superbalist
+description: A theme for Superbalist documentation.
+features: []
+homepage: https://github.com/bertuss/hugo-theme-docs
+license: MIT
+licenselink: https://github.com/bertuss/hugo-theme-docs/blob/master/LICENSE.md
+min_version: 0.1
+name: Superbalist Documentation theme
+original:
+  homepage: https://github.com/digitalcraftsman
+  name: Digitalcraftsman
+  repo: https://github.com/digitalcraftsman/hugo-material-docs
